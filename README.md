@@ -2,5 +2,6 @@
 
 int main(void)
 {
-	printf("compose coffee");
-	}
+	printf("test");
+	return 0;
+}
